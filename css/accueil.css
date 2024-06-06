@@ -1,0 +1,35 @@
+.custom-container {
+    padding: 20px; 
+    border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    background-color: #d9edf6;
+}
+.button {
+width: 100%;
+padding: 10px 15px; 
+background-color: #1aa1b7;
+border: 1px solid #aed4e6; 
+border-radius: 5px; 
+color: #ffff; 
+cursor: pointer; 
+}
+
+.button:hover {
+background-color: #04a2ba;
+}
+.title{
+    background-color: #d9edf6;
+
+}
+.bg-blue {
+background-color: blue;
+}
+.col-md-4 {
+    padding: inherit;
+}
+.center-align {
+    text-align: center;
+}
